@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playground target-platform="ios" requires-full-environment="false" version="6.0">
+    <pages>
+        <page name="UIKIt"/>
+        <page name="Implicit"/>
+        <page name="Timing Curves"/>
+        <page name="Springs"/>
+        <page name="Explicit 2"/>
+        <page name="Explicit"/>
+        <page name="Untitled Page"/>
+        <page name="MatchedGeomteryEffect"/>
+        <page name="AnimateableModifier"/>
+    </pages>
+</playground>
